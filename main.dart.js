@@ -62737,7 +62737,7 @@ q=q.k(0,$.PJ.j(0,$.k3))?"Light Mode":"Dark Mode"
 return A.a([m,l,A.ae6(A.em(A.a([new A.bS(B.fF,k,r),A.aM(q,r,A.cD(r,r,p,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.G,B.x,B.v),new A.acE(s.d),1,n)],t.Zq)},
 $S:403}
 A.acC.prototype={
-$0(){A.PR("resume.pdf")},
+$0(){A.PR("./assets/resume.pdf")},
 $S:0}
 A.acD.prototype={
 $0(){A.V0(B.t,new A.acB(this.a,this.b,this.c),t.H)},
