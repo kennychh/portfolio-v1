@@ -62729,7 +62729,7 @@ $0(){this.a.$1($.afX())
 A.eD(this.b,!1).dZ()},
 $S:0}
 A.acN.prototype={
-$0(){A.PR("resume.pdf")},
+$0(){A.PR("./assets/resume.pdf")},
 $S:0}
 A.acF.prototype={
 $1(a){var s=this,r=null,q=s.a,p=q.cx,o=t.p,n=t.S,m=A.ae6(A.em(A.a([new A.bS(B.fF,A.dM(B.DJ,p),r),A.aM("View Resume",r,A.aC(p,14,r,r),r,r)],o),B.G,B.x,B.v),new A.acC(),1,n),l=A.ae6(A.em(A.a([new A.bS(B.fF,A.dM(B.DO,p),r),A.aM("Change Color",r,A.cD(r,r,p,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.G,B.x,B.v),new A.acD(a,s.b,s.c),1,n),k=A.dM(q.k(0,$.PJ.j(0,$.k3))?B.DL:B.DK,p)
