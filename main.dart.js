@@ -62747,7 +62747,7 @@ $0(){this.a.$1($.afY())
 A.eD(this.b,!1).dZ()},
 $S:0}
 A.acP.prototype={
-$0(){A.acC("./assets/resume.pdf")},
+$0(){A.acC("resume.pdf")},
 $S:0}
 A.acH.prototype={
 $1(a){var s=this,r=null,q=s.a,p=q.cx,o=t.p,n=t.S,m=A.ae7(A.em(A.a([new A.bS(B.fF,A.dM(B.DH,p),r),A.aM("View Resume",r,A.aC(p,14,r,r),r,r)],o),B.G,B.x,B.v),new A.acE(),1,n),l=A.ae7(A.em(A.a([new A.bS(B.fF,A.dM(B.DM,p),r),A.aM("Change Color",r,A.cD(r,r,p,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.G,B.x,B.v),new A.acF(a,s.b,s.c),1,n),k=A.dM(q.k(0,$.PJ.j(0,$.k3))?B.DJ:B.DI,p)
@@ -62755,7 +62755,7 @@ q=q.k(0,$.PJ.j(0,$.k3))?"Light Mode":"Dark Mode"
 return A.a([m,l,A.ae7(A.em(A.a([new A.bS(B.fF,k,r),A.aM(q,r,A.cD(r,r,p,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],o),B.G,B.x,B.v),new A.acG(s.d),1,n)],t.Zq)},
 $S:403}
 A.acE.prototype={
-$0(){A.acC("./assets/resume.pdf")},
+$0(){A.acC("resume.pdf")},
 $S:0}
 A.acF.prototype={
 $0(){A.V0(B.t,new A.acD(this.a,this.b,this.c),t.H)},
