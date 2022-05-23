@@ -48226,7 +48226,7 @@
     s=$.a2E.i(0,p)
     if(s==null)s=q
     else{r=s.dy
-    s=r==null?s.db:r}return new A.pZ(new A.iT(q),new A.Y2(),"Kenny Chan",n.A_(o,m,s,!0),l,B.u5,!1,q)}}
+    s=r==null?s.db:r}return new A.pZ(new A.iT(q),new A.Y2(),"Page Not Found",n.A_(o,m,s,!0),l,B.u5,!1,q)}}
     A.Y2.prototype={
     $1(a){return A.a4J(new A.Y1(),null,t.z)},
     $S:332}
