@@ -64456,7 +64456,7 @@ $S:0}
 A.Fq.prototype={
 H(a){return new A.ec(new A.WN(A.a2(a).ay),null)}}
 A.WN.prototype={
-$2(a,b){var s,r,q=null,p="Hi, I'm Kenny!",o="Front End Developer",n="I'm currently majoring in Cognitive Science and minoring in Computer Science at University of Toronto. I specialize in implementing elegant and user-friendly digital experiences.",m=b.b
+$2(a,b){var s,r,q=null,p="Hi, I'm Kenny!",o="Software Developer",n="I'm currently majoring in Cognitive Science and minoring in Computer Science at University of Toronto. I specialize in implementing elegant and user-friendly digital experiences.",m=b.b
 if(!(m>730)&&!(m>1200)){m=a.J(t.w).f
 m=m.gjo(m)===B.da}else m=!1
 if(m){m=a.J(t.w).f
