@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  The first iteration of <a href="https://kennychan/dev" target="_blank">kennychan.dev</a>
+  The first iteration of <a href="https://kennychan.dev" target="_blank">kennychan.dev</a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/48639878/170898074-37723a9e-5945-4cf6-9336-4f29c1074047.png" />
