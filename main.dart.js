@@ -41907,7 +41907,7 @@ e.push(new A.LT(new A.a9v(k,r),new A.mr(m,!1,l,j),j))}h=g.gp(h)
 g=A.aiy(A.cH(j,j,A.atw(new A.FA(e,j),B.D6),!1,j,!0,j,j,j,j,k.d,!0,j,j,j,!0,j,j,j,j,j),56)
 i=i.fx
 i.toString
-return A.lW(i,new A.a9w(k,new A.f3(B.E8),d,new A.f3(new A.em(0,f,B.a_)),new A.f3(new A.em(0,f*h,B.a_))),new A.cp(B.wZ,g,j))}}
+return A.lW(i,new A.a9w(k,new A.f3(B.E8),d,new A.f3(new A.em(0,f,B.a_)),new A.f3(new A.em(0,f*h,B.a_))),new A.cp(B.wY,g,j))}}
 A.a9v.prototype={
 $1(a){this.a.c.dK[this.b]=a},
 $S:211}
@@ -63326,7 +63326,7 @@ if(h){h=j.a
 s=j.b
 r=s.cy
 r=h.y?new A.d5(r,i,i,A.Cp(new A.bq(32,32)),i,i,B.ag):new A.d5(i,i,A.ahm(r,2),A.Cp(new A.bq(32,32)),i,i,B.ag)
-q=A.a([A.bS(i,new A.lZ(1.7777777777777777,A.Df(A.hh(32),h.CD(a)),i),B.l,i,B.wV,i,i,i,i,i,i,i),h.Vl(a)],t.p)
+q=A.a([A.bS(i,new A.lZ(1.7777777777777777,A.Df(A.hh(32),h.CD(a)),i),B.l,i,B.wU,i,i,i,i,i,i,i),h.Vl(a)],t.p)
 if(h.x){p=s.x
 if(p==null)p=s.r
 o=s.w
@@ -63344,7 +63344,7 @@ l=A.hh(50)
 k=s.x
 if(k==null)k=s.r
 s=n?s.f:o
-p.push(A.bS(i,A.eT(B.wa,new A.XW(h),A.iJ(i,i,s,i,i,i,i,i,i,i,B.fH,k,i,i,i,i,A.ap(i,16,B.p,i,i),i)),B.l,i,i,new A.d5(m,i,i,l,i,i,B.ag),i,i,i,i,i,i))}return A.bS(i,new A.bf(B.D9,A.ce(A.a([A.i5(new A.bg(B.aL,i,i,new A.cp(B.x_,A.cO(p,B.K,B.bq,B.q),i),i),3),A.bS(i,i,B.l,i,i,i,i,i,i,i,i,50),A.i5(new A.bg(B.cp,i,i,new A.cp(B.wW,new A.lZ(1,A.Df(A.hh(32),h.CD(a)),i),i),i),3)],q),B.K,B.v,B.q),i),B.l,i,i,r,i,i,B.nq,i,i,i)},
+p.push(A.bS(i,A.eT(B.wa,new A.XW(h),A.iJ(i,i,s,i,i,i,i,i,i,i,B.fH,k,i,i,i,i,A.ap(i,16,B.p,i,i),i)),B.l,i,i,new A.d5(m,i,i,l,i,i,B.ag),i,i,i,i,i,i))}return A.bS(i,new A.bf(B.D9,A.ce(A.a([A.i5(new A.bg(B.aL,i,i,new A.cp(B.x_,A.cO(p,B.K,B.bq,B.q),i),i),3),A.bS(i,i,B.l,i,i,i,i,i,i,i,i,50),A.i5(new A.bg(B.cp,i,i,new A.cp(B.wV,new A.lZ(1,A.Df(A.hh(32),h.CD(a)),i),i),i),3)],q),B.K,B.v,B.q),i),B.l,i,i,r,i,i,B.nq,i,i,i)},
 $S:78}
 A.XV.prototype={
 $0(){B.W.kk(window,this.a.Q,"new tab")},
@@ -63358,7 +63358,7 @@ A.BW.prototype={
 I(a){var s=t.s
 return new A.dP(new A.QQ(A.ag(a).ay,A.a(["Javascript","HTML/CSS","Dart","Python","Swift"],s),A.a(["React Native","Flutter","GitHub","Git","Slack"],s),A.a(["Visual Studio Code","Xcode","Android Studio"],s)),null)}}
 A.QQ.prototype={
-$2(a,b){var s,r,q,p=this,o=null,n="Get to know about me",m="Hey there! My name is Kenny. I enjoy building and designing things, and bringing my ideas to life on digital devices. My interest in software development started back in highschool when I took my first Computer Science class. With an enjoyement in both technology and art, coding became the best of both worlds for expressing my creativity.",l="Currently I am in my final year at University of Toronto, majoring in both Cognitive Science and Psychology with a minor in Computer Science. Through their Co-op program, I've had the amazing oppurtunity of working at HelloFresh for 16 months, where I was able to expand my experiences and interests in designing elegant code and user experience for people to use around the world.",k="Throughout my journey as a Software Developer, I have acquired various skills that helped me build a multitude of digital experiences, using different programming languages, tools, etc. I am experienced in building mobile apps with React Native, and I am expanding my knowledge with Flutter to create apps for mobile and the web. Here are other notable technical skills that I am also proficient with:",j="Languages",i="Dev Tools",h=b.b
+$2(a,b){var s,r,q,p=this,o=null,n="Get to know about me",m="Hey there! My name is Kenny. I enjoy building and designing things, and bringing my ideas to life on digital devices. My interest in software development started back in highschool when I took my first Computer Science class. With an enjoyement in both technology and art, coding became the best of both worlds for expressing my creativity.",l="Currently I am in my final year at University of Toronto, majoring in both Cognitive Science and Psychology with a minor in Computer Science. Through their Co-op program, I've had the amazing opportunity of working at HelloFresh for 16 months, where I was able to expand my experiences and interests in designing elegant code and user experience for people to use around the world.",k="Throughout my journey as a Software Developer, I have acquired various skills that helped me build a multitude of digital experiences, using different programming languages, tools, etc. I am experienced in building mobile apps with React Native, and I am expanding my knowledge with Flutter to create apps for mobile and the web. Here are other notable technical skills that I am also proficient with:",j="Languages",i="Dev Tools",h=b.b
 if(!(h>730)&&!(h>1200)){h=a.V(t.w).f
 h=h.gij(h)===B.c8}else h=!1
 if(h){h=p.a
@@ -63369,19 +63369,19 @@ return A.cO(A.a([$.kl(),B.L,A.aB("About Me",o,A.ap(s,40,B.p,o,o),o,o),B.be,A.aB(
 s=h.cx
 r=h.f
 q=t.p
-return A.cO(A.a([$.kl(),B.L,A.aB("About",o,A.ap(s,45,B.p,o,o),o,o),A.aB(n,o,A.ap(r,30,B.p,o,o),o,o),B.L,A.ce(A.a([A.i5(new A.bg(B.aL,o,o,A.cO(A.a([A.aB(m,o,A.ap(s,16,B.r,o,o),o,o),A.bS(o,o,B.l,o,o,o,o,10,o,o,o,o),A.aB(l,o,A.ap(s,16,B.r,o,o),o,o),A.bS(o,o,B.l,o,o,o,o,50,o,o,o,o)],q),B.K,B.v,B.q),o),2),A.bS(o,o,B.l,o,o,o,o,o,o,o,o,100),A.i5(new A.bg(B.cp,o,o,new A.cp(B.wX,new A.lZ(1,A.Df(A.hh(32),A.bS(o,A.aeJ("./assets/memoji.png",B.fa,o),B.l,o,o,new A.d5(h.cy,o,o,o,o,o,B.ag),o,o,o,o,o,o)),o),o),o),1)],q),B.K,B.v,B.q),B.eO,A.aB("Technical tools I've been working with",o,A.ap(r,30,B.p,o,o),o,o),B.L,new A.bg(B.aL,o,o,new A.cp(B.dq,A.aB(k,o,A.ap(s,16,B.r,o,o),o,o),o),o),B.L,A.ce(A.a([new A.dB(1,B.ai,A.cO(A.a([A.aB(j,o,A.ap(r,18,B.p,o,o),o,o),B.be,A.tc(a,p.b)],q),B.K,B.v,B.q),o),new A.dB(1,B.ai,A.cO(A.a([A.aB(i,o,A.ap(r,18,B.p,o,o),o,o),B.be,A.tc(a,p.c)],q),B.K,B.v,B.q),o),new A.dB(1,B.ai,A.cO(A.a([A.aB("IDEs",o,A.ap(r,18,B.p,o,o),o,o),B.be,A.tc(a,p.d)],q),B.K,B.v,B.q),o)],q),B.K,B.v,B.q),B.Kv],q),B.K,B.v,B.q)},
+return A.cO(A.a([$.kl(),B.L,A.aB("About",o,A.ap(s,45,B.p,o,o),o,o),A.aB(n,o,A.ap(r,30,B.p,o,o),o,o),B.L,A.ce(A.a([A.i5(new A.bg(B.aL,o,o,A.cO(A.a([A.aB(m,o,A.ap(s,16,B.r,o,o),o,o),A.bS(o,o,B.l,o,o,o,o,10,o,o,o,o),A.aB(l,o,A.ap(s,16,B.r,o,o),o,o),A.bS(o,o,B.l,o,o,o,o,50,o,o,o,o)],q),B.K,B.v,B.q),o),2),A.bS(o,o,B.l,o,o,o,o,o,o,o,o,100),A.i5(new A.bg(B.cp,o,o,new A.cp(B.wW,new A.lZ(1,A.Df(A.hh(32),A.bS(o,A.aeJ("./assets/memoji.png",B.fa,o),B.l,o,o,new A.d5(h.cy,o,o,o,o,o,B.ag),o,o,o,o,o,o)),o),o),o),1)],q),B.K,B.v,B.q),B.eO,A.aB("Technical tools I've been working with",o,A.ap(r,30,B.p,o,o),o,o),B.L,new A.bg(B.aL,o,o,new A.cp(B.dq,A.aB(k,o,A.ap(s,16,B.r,o,o),o,o),o),o),B.L,A.ce(A.a([new A.dB(1,B.ai,A.cO(A.a([A.aB(j,o,A.ap(r,18,B.p,o,o),o,o),B.be,A.tc(a,p.b)],q),B.K,B.v,B.q),o),new A.dB(1,B.ai,A.cO(A.a([A.aB(i,o,A.ap(r,18,B.p,o,o),o,o),B.be,A.tc(a,p.c)],q),B.K,B.v,B.q),o),new A.dB(1,B.ai,A.cO(A.a([A.aB("IDEs",o,A.ap(r,18,B.p,o,o),o,o),B.be,A.tc(a,p.d)],q),B.K,B.v,B.q),o)],q),B.K,B.v,B.q),B.Kv],q),B.K,B.v,B.q)},
 $S:77}
 A.Do.prototype={
 I(a){return new A.dP(new A.SJ(A.ag(a).ay),null)}}
 A.SJ.prototype={
-$2(a,b){var s,r,q,p=null,o=this.a,n=A.V0(A.aB("Thanks for stopping by!",p,A.ap(o.b,45,B.p,p,p),p,p),B.dr),m=A.aB("Feel free to reach out anytime! Whether you have a question, a job oppurtunity, or just want to chat, my inbox is always open!",p,A.ap(o.cx,16,p,p,p),B.lj,p)
+$2(a,b){var s,r,q,p=null,o=this.a,n=A.V0(A.aB("Thanks for stopping by!",p,A.ap(o.b,45,B.p,p,p),p,p),B.dr),m=A.aB("Feel free to reach out anytime! Whether you have a question, a job opportunity, or just want to chat, my inbox is always open!",p,A.ap(o.cx,16,p,p,p),B.lj,p)
 o=o.f
 s=t.p
 r=A.ce(A.a([A.i5(new A.bg(B.Y,p,p,new A.cp(B.f9,A.eT(B.OF,new A.SG(),A.iJ(p,p,p,p,p,p,p,p,p,p,p,o,p,p,p,p,A.ap(p,16,B.p,p,p),p)),p),p),1),A.i5(new A.bg(B.Y,p,p,new A.cp(B.f9,A.eT(B.OI,new A.SH(),A.iJ(p,p,p,p,p,p,p,p,p,p,p,o,p,p,p,p,A.ap(p,16,B.p,p,p),p)),p),p),1),A.i5(new A.bg(B.Y,p,p,new A.cp(B.f9,A.eT(B.OH,new A.SI(),A.iJ(p,p,p,p,p,p,p,p,p,p,p,o,p,p,p,p,A.ap(p,16,B.p,p,p),p)),p),p),1)],s),B.E,B.bq,B.q)
 o=A.aB("Designed and built by Kenny Chan",p,A.ap(o,12,p,p,p),p,p)
 q=b.b
 q=!(q>730)&&!(q>1200)?B.Ku:B.be
-return A.bS(p,A.cO(A.a([B.Kz,n,B.L,new A.cp(B.dq,m,p),B.L,A.i5(new A.bg(B.Dn,p,p,new A.bf(B.D3,A.cO(A.a([new A.bg(B.Y,p,p,new A.cp(B.dq,r,p),p),B.L,o,q],s),B.E,B.hq,B.q),p),p),1)],s),B.E,B.cW,B.q),B.l,p,B.wU,p,p,p,p,p,p,p)},
+return A.bS(p,A.cO(A.a([B.Kz,n,B.L,new A.cp(B.dq,m,p),B.L,A.i5(new A.bg(B.Dn,p,p,new A.bf(B.D3,A.cO(A.a([new A.bg(B.Y,p,p,new A.cp(B.dq,r,p),p),B.L,o,q],s),B.E,B.hq,B.q),p),p),1)],s),B.E,B.cW,B.q),B.l,p,B.wZ,p,p,p,p,p,p,p)},
 $S:78}
 A.SG.prototype={
 $0(){B.W.kk(window,"https://www.linkedin.com/in/kenny-chan-2ab991195","new tab")},
@@ -63541,7 +63541,7 @@ q=k?n.db:l
 q=A.H3(q,i,new A.adz(h),i===3,A.aB("Orange",o,g,o,o),3,f)
 if(k)l=n.db
 k=t.p
-f=A.cO(A.a([new A.dB(1,B.ai,new A.cp(B.wY,o,o),o),j,s,r,q,A.H3(l,i,new A.adA(h),i===4,A.aB("Pink",o,g,o,o),4,f)],k),B.E,B.v,B.hr)
+f=A.cO(A.a([new A.dB(1,B.ai,new A.cp(B.wX,o,o),o),j,s,r,q,A.H3(l,i,new A.adA(h),i===4,A.aB("Pink",o,g,o,o),4,f)],k),B.E,B.v,B.hr)
 g=A.eT(B.OD,new A.adB(a),A.iJ(o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ap(o,o,B.p,o,o),o))
 i=A.iJ(o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,A.ap(o,o,B.p,o,o),o)
 l=p.d
@@ -66861,16 +66861,16 @@ B.lR=new A.a1(40,40,40,40)
 B.lS=new A.a1(56,56,56,56)
 B.lT=new A.a1(96,96,96,96)
 B.lU=new A.a1(1/0,1/0,1/0,1/0)
-B.wY=new A.a1(400,1/0,0,0)
+B.wX=new A.a1(400,1/0,0,0)
 B.wT=new A.a1(0,1/0,48,48)
 B.wS=new A.a1(0,1/0,56,56)
-B.wX=new A.a1(0,1/0,0,350)
-B.wW=new A.a1(0,1/0,0,400)
-B.wV=new A.a1(0,1/0,0,500)
-B.wU=new A.a1(0,1/0,0,600)
+B.wW=new A.a1(0,1/0,0,350)
+B.wV=new A.a1(0,1/0,0,400)
+B.wU=new A.a1(0,1/0,0,500)
 B.f9=new A.a1(0,110,0,1/0)
-B.wZ=new A.a1(112,280,0,1/0)
+B.wY=new A.a1(112,280,0,1/0)
 B.dq=new A.a1(0,760,0,1/0)
+B.wZ=new A.a1(0,1/0,0,650)
 B.x_=new A.a1(0,550,400,1/0)
 B.bw=new A.a1(0,1/0,0,1/0)
 B.x2=new A.a1(280,1/0,0,1/0)
