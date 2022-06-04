@@ -19029,9 +19029,9 @@ T7:function T7(){},
 hj:function hj(a,b,c,d){var _=this
 _.a=a
 _.b=b
-_.c="purple"
+_.c="Purple"
 _.d=c
-_.e="./assets/purple_gradient_1.png"
+_.e="./assets/Purple_gradient_1.png"
 _.x2$=0
 _.xr$=d
 _.y2$=_.y1$=0
@@ -63651,7 +63651,7 @@ var $async$pj=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=3
 return A.J($.kk().fN("Storage",t.z),$async$pj)
 case 3:p=b.mf(0,"COLORSTATUS")
-q=p==null?"purple":p
+q=p==null?"Purple":p
 s=1
 break
 case 1:return A.O(q,r)}})
@@ -63671,7 +63671,7 @@ var $async$pm=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=3
 return A.J($.kk().fN("Storage",t.z),$async$pm)
 case 3:p=b.mf(0,"GRADIENTIMAGESTATUS")
-q=p==null?"./assets/purple_gradient_1.png":p
+q=p==null?"./assets/Purple_gradient_1.png":p
 s=1
 break
 case 1:return A.O(q,r)}})
@@ -63801,7 +63801,7 @@ $0(){this.a.$0()},
 $S:0}
 A.wd.prototype={
 az(){$.bG.toString
-return new A.zX(new A.hj(new A.T7(),$.bR().b.a.d===B.R,B.c.el($.Qn,"purple"),$.bt()),B.m)}}
+return new A.zX(new A.hj(new A.T7(),$.bR().b.a.d===B.R,B.c.el($.Qn,"Purple"),$.bt()),B.m)}}
 A.zX.prototype={
 ju(){var s=0,r=A.Q(t.z),q=this,p,o,n
 var $async$ju=A.R(function(a,b){if(a===1)return A.N(b,r)
@@ -68971,7 +68971,7 @@ B.QS=new A.wv(0,"start")
 B.ID=new A.wv(1,"end")
 B.aT=new A.wB(0,"fill")
 B.U=new A.wB(1,"stroke")
-B.IH=new A.l1("","","","./assets/purple_gradient_1.png",B.nM,null)
+B.IH=new A.l1("","","","./assets/Purple_gradient_1.png",B.nM,null)
 B.be=new A.wE(0,"nonZero")
 B.es=new A.wE(1,"evenOdd")
 B.aU=new A.l2(0,"created")
